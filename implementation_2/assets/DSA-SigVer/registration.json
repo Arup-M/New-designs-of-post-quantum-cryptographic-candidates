@@ -1,0 +1,15 @@
+{
+    "vsId": 1,
+    "algorithm": "DSA",
+    "mode": "sigVer",
+    "revision": "Proposal",
+    "isSample": false,
+    "parameterSets": [
+        "DSA-128-1",
+        "DSA-128-2",
+        "DSA-192-1",
+        "DSA-192-2",
+        "DSA-256-1",
+        "DSA-256-2"
+    ]
+}
